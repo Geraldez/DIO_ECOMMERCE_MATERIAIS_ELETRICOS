@@ -17,5 +17,5 @@ ________________________________________
 # Como rodar o projeto
 Para garantir a integridade dos dados e o funcionamento dos relacionamentos, execute os scripts na seguinte ordem:
 1.	Execute ecommerceRefinado.sql para criar a estrutura das tabelas.
-2.	Execute dadosEcommerce.sql para popular o banco com dados de teste.
+2.	Execute dadosEcommerce.sql para popular o banco com dados de teste, todos os dados são ficticios, qualquer semelhança com um caso do mundo real é mera coincidencia.
 3.	Execute viewsEcommerce.sql para visualizar as análises de negócio e resultados das queries.
